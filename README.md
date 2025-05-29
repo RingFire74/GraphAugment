@@ -137,22 +137,6 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## Authors
-
-* Aadithya Velayutham
-* Abishek Geddallu Rengarajan
-* Aditya Dhavala
-* Arpit Chandrakar
-* Ashwin Balasubramanian
-* Avani Mundra
-* Nemika Tyagi
-* Vamsi Deekshit Kanakavety
 
 ---
 
